@@ -14,30 +14,37 @@
 
 1. **Pantalla de Categorías**
    - Organiza los productos en diferentes categorías para facilitar la búsqueda y gestión.
+     
    ![Categorías](imagenes/categorias.PNG)
 
 2. **Creación de Producto**
    - Permite crear nuevos productos, asignando detalles como nombre, cantidad y precio.
+     
    ![Crear Producto](imagenes/crear_producto.PNG)
 
 3. **Generación de Venta**
    - Facilita la creación de ventas y la generación de facturas.
+     
    ![Generar Venta](imagenes/generarventa.PNG)
 
 4. **Factura**
    - Visualización de facturas generadas, incluyendo los detalles de los productos vendidos.
+     
    ![Factura](imagenes/factura2.PNG)
 
 5. **Menú Principal**
    - Acceso rápido a las diferentes opciones del sistema: inventario, ventas, categorías, entre otros.
+     
    ![Menú](imagenes/menu.PNG)
 
 6. **Ver Inventario**
    - Visualiza el inventario actual de productos, con la opción de actualizarlo.
+     
    ![Ver Inventario](imagenes/verintentario.PNG)
 
 7. **Pantalla de Facturas**
    - Muestra una lista de todas las facturas generadas.
+     
    ![Facturas](imagenes/facturas.PNG)
 
 ## Tecnologías
